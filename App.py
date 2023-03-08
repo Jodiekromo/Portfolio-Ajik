@@ -1,5 +1,5 @@
 
-pip install yfinance
+!pip install yfinance
 import streamlit as st
 from datetime import date
 
